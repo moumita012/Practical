@@ -1,6 +1,6 @@
 class Multi{
 public static void main(String[]args){
-System.out.println("the two number is;");
+System.out.println("the two number is");
 int a =200;
 int b = 15;
 
